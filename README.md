@@ -14,7 +14,7 @@
 
 - 💬 Ask me about anything, always ready to help.
 
-- 📫 Find me on Telegram - [Hacker](https://t.me/the_noobhacker).
+- 📫 Find me on Telegram - [ㅤㅤㅤHackerㅤㅤ](https://t.me/the_noobhacker).
 
 - ⚡ Fact: I am a Noobie.
 
