@@ -1,10 +1,10 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![telegram badge](https://img.shields.io/badge/Hacker-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
+[![u](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤHackerㅤㅤㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?=Views&color=blue&style=plastic" alt="1000" /> </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
+![   Hits  ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
 
 - 🔭 I’m currently studying.
 
