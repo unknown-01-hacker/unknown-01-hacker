@@ -1,8 +1,8 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![telegram badge](https://img.shields.io/badge/Hacker-30302f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
+[![telegram badge](https://img.shields.io/badge/Hacker-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?1000=Views&color=blue&style=plastic" alt="1000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?=Views&color=blue&style=plastic" alt="1000" /> </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
 
@@ -18,4 +18,4 @@
 
 - ⚡ Fact: I am a Noobie.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=unknown-01-hacker&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=unknown-01-hacker&show_icons=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
