@@ -1,6 +1,6 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![u](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤHackerㅤㅤㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
+[![u](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤㅤㅤ∪ᚺӃᚺ𐌈шᚺㅤㅤㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?=Views&color=blue&style=plastic" alt="1000" /> </p>
 
