@@ -2,7 +2,8 @@
 
 [![u](https://img.shields.io/badge/ㅤㅤㅤㅤ∪ᚺӃᚺ𐌈шᚺㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
-![Love ](https://telegra.ph/file/d6c7cc75ee6710e74d389.jpg)
+![ 
+     Love ](https://telegra.ph/file/31185c7c494982be99306.jpg)
 
 ![   Hits  ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
 
