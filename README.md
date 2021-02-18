@@ -2,8 +2,9 @@
 
 [![u](https://img.shields.io/badge/ㅤㅤㅤㅤ∪ᚺӃᚺ𐌈шᚺㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
-![https://telegra.ph/file/d6c7cc75ee6710e74d389.jpg](https://telegra.ph/file/0a90fafc156caa2525823.jpg)
-![   Hits  ](https://telegra.ph/file/d6c7cc75ee6710e74d389.jpg)
+![Love ](https://telegra.ph/file/d6c7cc75ee6710e74d389.jpg)
+
+![   Hits  ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
 
 - 🔭 I’m currently studying.
 
