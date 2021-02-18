@@ -1,8 +1,8 @@
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![u](https://img.shields.io/badge/ㅤㅤㅤㅤ∪ᚺӃᚺ𐌈шᚺㅤㅤㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
+[![u](https://img.shields.io/badge/ㅤㅤㅤㅤ∪ᚺӃᚺ𐌈шᚺㅤㅤㅤㅤㅤ-48385f?style=flat&logo=telegram)](https://t.me/the_noobhacker)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?=Views&color=blue&style=plastic" alt="1000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?=Views&color=blue&style=plastic"="1𐌈" /> </p>
 
 ![   Hits  ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/unknown-01-hacker/)
 
