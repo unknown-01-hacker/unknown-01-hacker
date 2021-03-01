@@ -21,4 +21,4 @@
 - ⚡ Fact: I am a Noobie.
  # <img src="https://www.animatedimages.org/data/media/1772/animated-dj-image-0007.gif" width="50px">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=unknown-01-hacker&show_icons=truee&title_color=7fffd4&icon_color=FF69B4&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=unknown-01-hacker&show_icons=true&title_color=FF69B4&icon_color=FFA500&text_color=7fffd4&bg_color=151515)
