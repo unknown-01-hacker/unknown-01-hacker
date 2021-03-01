@@ -18,5 +18,6 @@
 - 📫 Find me on Telegram - [ㅤㅤㅤHackerㅤㅤ](http://t.me/nH_pMbot)
 
 - ⚡ Fact: I am a Noobie.
+ # <img src="https://www.animatedimages.org/data/media/1772/animated-dj-image-0007.gif" width="50px">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=unknown-01-hacker&show_icons=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
